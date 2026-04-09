@@ -1,4 +1,4 @@
-class Pipeview < Formula
+class Pipespy < Formula
   desc "Real-time pipeline debugger — pv shows bytes, pipespy shows your data"
   homepage "https://github.com/jasonm4130/pipespy"
   version "0.1.0"
