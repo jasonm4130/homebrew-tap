@@ -6,11 +6,11 @@ Custom Homebrew formulae.
 
 ```bash
 brew tap jasonm4130/tap
-brew install pipeview
+brew install pipespy
 ```
 
 ## Formulae
 
 | Formula | Description |
 |---------|-------------|
-| [pipeview](https://github.com/jasonm4130/pipeview) | Real-time pipeline debugger for your terminal |
+| [pipespy](https://github.com/jasonm4130/pipespy) | Real-time pipeline debugger for your terminal |
